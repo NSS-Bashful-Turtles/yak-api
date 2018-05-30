@@ -165,94 +165,96 @@
             "receiverId": "2"
         }
     ],
-    "publicPosts": [
+    "posts": [
         {
             "id": "1",
             "userId": "1",
             "timeStamp": "",
             "content": "Qui laboris cillum non ut incididunt id esse. Ut officia velit aliqua ullamco cupidatat deserunt consectetur ipsum officia.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         },
         {
             "id": "2",
             "userId": "2",
             "timeStamp": "",
             "content": "Et elit nostrud dolor commodo nulla. Duis magna elit eiusmod cupidatat culpa nisi commodo.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "3",
+            "private": "true"
         },
         {
             "id": "3",
             "userId": "3",
             "timeStamp": "",
             "content": "Irure laboris duis sint pariatur. Voluptate mollit tempor aliqua amet exercitation ullamco excepteur.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         },
         {
             "id": "4",
             "userId": "4",
             "timeStamp": "",
             "content": "Exercitation eu ipsum aute laborum aliqua aliqua. Anim reprehenderit cillum ex id voluptate irure consectetur est.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "5",
+            "private": "true"
         },
         {
             "id": "5",
             "userId": "5",
             "timeStamp": "",
             "content": "Minim esse minim qui enim fugiat nostrud elit magna laboris enim do cupidatat. Duis minim sit ipsum deserunt consectetur eu tempor consectetur in exercitation pariatur.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         },
         {
             "id": "6",
             "userId": "6",
             "timeStamp": "",
             "content": "Minim amet nostrud et sit. Officia eiusmod eiusmod reprehenderit occaecat occaecat deserunt.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         },
         {
             "id": "7",
             "userId": "7",
             "timeStamp": "",
             "content": "Voluptate fugiat pariatur ipsum duis esse nostrud adipisicing aute et culpa excepteur laborum. Cupidatat quis proident cillum in veniam esse tempor est velit qui excepteur aliqua laborum sint.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "4",
+            "private": "true"
         },
         {
             "id": "8",
             "userId": "8",
             "timeStamp": "",
             "content": "Fugiat id occaecat id ut cillum. Duis in deserunt sit culpa duis est aute aliquip ea.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "8",
+            "private": "true"
         },
         {
             "id": "9",
             "userId": "9",
             "timeStamp": "",
             "content": "Et amet enim est irure qui. Dolor ullamco sint ut sint sint laboris sit occaecat non ea dolore nulla et.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         },
         {
             "id": "10",
             "userId": "10",
             "timeStamp": "",
             "content": "Nostrud enim est eiusmod quis. Dolore aliqua sunt ullamco aute eiusmod dolore enim exercitation occaecat proident.",
-            "image": "http://via.placeholder.com/350x150"
-        }
-    ],
-    "privatePosts": [
-        {
-            "id": "1",
-            "userId": "1",
-            "receiverId": "2",
-            "timeStamp": "",
-            "content": "Exercitation anim id ullamco ut Lorem dolor anim officia esse et qui reprehenderit do. Et do dolore nisi anim incididunt voluptate nisi enim eu ad do.",
-            "image": "http://via.placeholder.com/350x150"
-        },
-        {
-            "id": "2",
-            "userId": "2",
-            "receiverId": "3",
-            "timeStamp": "",
-            "content": "Ad esse exercitation esse sit esse in enim. Consectetur velit est consectetur commodo duis cupidatat laborum incididunt voluptate elit laboris ut laboris.",
-            "image": "http://via.placeholder.com/350x150"
+            "image": "http://via.placeholder.com/350x150",
+            "receiverId": "null",
+            "private": "false"
         }
     ],
     "followships": [
