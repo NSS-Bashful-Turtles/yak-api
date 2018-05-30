@@ -1,0 +1,349 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": {
+                "first": "Alyson",
+                "last": "Cervantes"
+            },
+            "username": "user1",
+            "email": "alyson.cervantes@undefined.com",
+            "location": "Deltaville, California",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "2",
+            "name": {
+                "first": "Page",
+                "last": "Mclean"
+            },
+            "username": "user2",
+            "email": "page.mclean@undefined.ca",
+            "location": "Lumberton, Virginia",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "3",
+            "name": {
+                "first": "Inez",
+                "last": "Randall"
+            },
+            "username": "user3",
+            "email": "inez.randall@undefined.net",
+            "location": "Norris, American Samoa",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "4",
+            "name": {
+                "first": "Erika",
+                "last": "Chambers"
+            },
+            "username": "user4",
+            "email": "erika.chambers@undefined.org",
+            "location": "Saddlebrooke, Missouri",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "5",
+            "name": {
+                "first": "Ramona",
+                "last": "Carter"
+            },
+            "username": "user5",
+            "email": "ramona.carter@undefined.us",
+            "location": "Hobucken, Maryland",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "6",
+            "name": {
+                "first": "Holmes",
+                "last": "Lindsay"
+            },
+            "username": "user6",
+            "email": "holmes.lindsay@undefined.biz",
+            "location": "Longbranch, Massachusetts",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "7",
+            "name": {
+                "first": "Murphy",
+                "last": "Lynn"
+            },
+            "username": "user7",
+            "email": "murphy.lynn@undefined.name",
+            "location": "Movico, Rhode Island",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "8",
+            "name": {
+                "first": "Bonner",
+                "last": "George"
+            },
+            "username": "user8",
+            "email": "bonner.george@undefined.biz",
+            "location": "Sehili, Oregon",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "9",
+            "name": {
+                "first": "Kent",
+                "last": "Branch"
+            },
+            "username": "user9",
+            "email": "kent.branch@undefined.co.uk",
+            "location": "Blodgett, New York",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "10",
+            "name": {
+                "first": "Cotton",
+                "last": "Watts"
+            },
+            "username": "user10",
+            "email": "cotton.watts@undefined.info",
+            "location": "Hollymead, Colorado",
+            "password": "password",
+            "image": "http://via.placeholder.com/350x150"
+        }
+    ],
+    "friendships": [
+        {
+            "id": "1",
+            "user1Id": "1",
+            "user2Id": "2"
+        },
+        {
+            "id": "2",
+            "user1Id": "1",
+            "user2Id": "3"
+        },
+        {
+            "id": "3",
+            "user1Id": "2",
+            "user2Id": "4"
+        },
+        {
+            "id": "4",
+            "user1Id": "4",
+            "user2Id": "7"
+        },
+        {
+            "id": "5",
+            "user1Id": "10",
+            "user2Id": "8"
+        },
+        {
+            "id": "6",
+            "user1Id": "6",
+            "user2Id": "5"
+        },
+        {
+            "id": "7",
+            "user1Id": "9",
+            "user2Id": "10"
+        }
+    ],
+    "friendRequests": [
+        {
+            "id": "1",
+            "userId": "1",
+            "receiverId": "2"
+        }
+    ],
+    "publicPosts": [
+        {
+            "id": "1",
+            "userId": "1",
+            "timeStamp": "",
+            "content": "Qui laboris cillum non ut incididunt id esse. Ut officia velit aliqua ullamco cupidatat deserunt consectetur ipsum officia.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "2",
+            "userId": "2",
+            "timeStamp": "",
+            "content": "Et elit nostrud dolor commodo nulla. Duis magna elit eiusmod cupidatat culpa nisi commodo.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "3",
+            "userId": "3",
+            "timeStamp": "",
+            "content": "Irure laboris duis sint pariatur. Voluptate mollit tempor aliqua amet exercitation ullamco excepteur.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "4",
+            "userId": "4",
+            "timeStamp": "",
+            "content": "Exercitation eu ipsum aute laborum aliqua aliqua. Anim reprehenderit cillum ex id voluptate irure consectetur est.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "5",
+            "userId": "5",
+            "timeStamp": "",
+            "content": "Minim esse minim qui enim fugiat nostrud elit magna laboris enim do cupidatat. Duis minim sit ipsum deserunt consectetur eu tempor consectetur in exercitation pariatur.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "6",
+            "userId": "6",
+            "timeStamp": "",
+            "content": "Minim amet nostrud et sit. Officia eiusmod eiusmod reprehenderit occaecat occaecat deserunt.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "7",
+            "userId": "7",
+            "timeStamp": "",
+            "content": "Voluptate fugiat pariatur ipsum duis esse nostrud adipisicing aute et culpa excepteur laborum. Cupidatat quis proident cillum in veniam esse tempor est velit qui excepteur aliqua laborum sint.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "8",
+            "userId": "8",
+            "timeStamp": "",
+            "content": "Fugiat id occaecat id ut cillum. Duis in deserunt sit culpa duis est aute aliquip ea.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "9",
+            "userId": "9",
+            "timeStamp": "",
+            "content": "Et amet enim est irure qui. Dolor ullamco sint ut sint sint laboris sit occaecat non ea dolore nulla et.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "10",
+            "userId": "10",
+            "timeStamp": "",
+            "content": "Nostrud enim est eiusmod quis. Dolore aliqua sunt ullamco aute eiusmod dolore enim exercitation occaecat proident.",
+            "image": "http://via.placeholder.com/350x150"
+        }
+    ],
+    "privatePosts": [
+        {
+            "id": "1",
+            "userId": "1",
+            "receiverId": "2",
+            "timeStamp": "",
+            "content": "Exercitation anim id ullamco ut Lorem dolor anim officia esse et qui reprehenderit do. Et do dolore nisi anim incididunt voluptate nisi enim eu ad do.",
+            "image": "http://via.placeholder.com/350x150"
+        },
+        {
+            "id": "2",
+            "userId": "2",
+            "receiverId": "3",
+            "timeStamp": "",
+            "content": "Ad esse exercitation esse sit esse in enim. Consectetur velit est consectetur commodo duis cupidatat laborum incididunt voluptate elit laboris ut laboris.",
+            "image": "http://via.placeholder.com/350x150"
+        }
+    ],
+    "followships": [
+        {
+            "id": "1",
+            "userId": "4",
+            "followedId": "6"
+        },
+        {
+            "id": "1",
+            "userId": "1",
+            "followedId": "10"
+        },
+        {
+            "id": "1",
+            "userId": "2",
+            "followedId": "9"
+        },
+        {
+            "id": "1",
+            "userId": "8",
+            "followedId": "1"
+        }
+    ],
+    "events": [
+        {
+            "id": "1",
+            "userId": "3",
+            "name": "Party",
+            "date": "June 15",
+            "startTime": "6:00",
+            "endTime": "9:00"
+        },
+        {
+            "id": "2",
+            "userId": "4",
+            "name": "Party",
+            "date": "June 12",
+            "startTime": "6:00",
+            "endTime": "9:00"
+        },
+        {
+            "id": "3",
+            "userId": "5",
+            "name": "Party",
+            "date": "May 30",
+            "startTime": "6:00",
+            "endTime": "9:00"
+        },
+        {
+            "id": "4",
+            "userId": "6",
+            "name": "Party",
+            "date": "June 18",
+            "startTime": "6:00",
+            "endTime": "9:00"
+        },
+        {
+            "id": "5",
+            "userId": "7",
+            "name": "Party",
+            "date": "June 22",
+            "startTime": "6:00",
+            "endTime": "9:00"
+        }
+    ],
+    "likes": [
+        {
+            "id": "1",
+            "userId": "1",
+            "publicPostId": "3"
+        },
+        {
+            "id": "2",
+            "userId": "2",
+            "publicPostId": "10"
+        },
+        {
+            "id": "3",
+            "userId": "2",
+            "publicPostId": "4"
+        },
+        {
+            "id": "4",
+            "userId": "6",
+            "publicPostId": "1"
+        },
+        {
+            "id": "5",
+            "userId": "8",
+            "publicPostId": "7"
+        }
+    ]
+}
