@@ -371,5 +371,37 @@
       "userId": "8",
       "publicPostId": "7"
     }
+  ],
+  "ads": [
+    {
+      "id": 1,
+      "company": "Euron",
+      "content": "Incididunt sunt in officia dolor quis irure aliquip laboris cupidatat aute in ad eiusmod. Consectetur nisi et ea non consequat aliquip eiusmod adipisicing dolor tempor. Cupidatat officia consectetur reprehenderit consequat aliqua fugiat magna. Voluptate occaecat ipsum culpa irure voluptate aliqua ipsum in Lorem officia enim qui nostrud. Pariatur ea aliqua dolore duis cillum exercitation laboris et fugiat enim reprehenderit id cupidatat exercitation. Nulla velit reprehenderit ad consequat sit nulla do adipisicing veniam. Anim elit dolor minim ipsum qui qui id.",
+      "title": "dolor velit"
+    },
+    {
+      "id": 2,
+      "company": "Webiotic",
+      "content": "Laborum aliquip reprehenderit enim ex duis voluptate ad. Deserunt mollit ad Lorem ullamco elit voluptate enim ex sit. Tempor labore et consequat sit pariatur qui reprehenderit non. Laboris dolor duis dolor ullamco laboris quis cillum dolor est eu. Duis anim labore occaecat nostrud sunt quis duis quis nulla proident.",
+      "title": "nulla eiusmod"
+    },
+    {
+      "id": 3,
+      "company": "Ersum",
+      "content": "Eu excepteur ut elit minim est amet esse occaecat nisi amet irure. Velit sunt ipsum do esse nulla qui ipsum sunt laboris pariatur quis laborum ut. Lorem id nisi irure ullamco cillum laboris laborum tempor amet eu mollit deserunt anim enim. Magna non occaecat ea incididunt sunt aliquip elit reprehenderit et. In aute sint reprehenderit eiusmod eu qui nulla id culpa commodo consequat. Magna aliquip consequat reprehenderit quis magna fugiat minim Lorem incididunt reprehenderit laboris tempor fugiat. Velit magna occaecat eiusmod sint in.",
+      "title": "Lorem culpa"
+    },
+    {
+      "id": 4,
+      "company": "Pharmex",
+      "content": "Exercitation esse non dolor ut esse anim exercitation aliquip incididunt sit laborum culpa labore eiusmod. Deserunt consectetur do ex aliquip ea commodo ex labore duis duis consequat irure. Consequat nulla tempor dolor aliqua officia magna.",
+      "title": "reprehenderit qui"
+    },
+    {
+      "id": 5,
+      "company": "Emergent",
+      "content": "Ut eiusmod ut tempor nulla ex. Esse aute ea pariatur magna qui in. Excepteur pariatur reprehenderit culpa magna irure.",
+      "title": "id exercitation"
+    }
   ]
 }
