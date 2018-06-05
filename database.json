@@ -161,8 +161,65 @@
   "friendRequests": [
     {
       "id": "1",
+      "userId": "2",
+      "receiverId": "1"
+    },
+    {
+      "id": "2",
+      "userId": "4",
+      "receiverId": "1"
+    }
+  ],
+  "eventsNotifications": [
+    {
+      "id": "1",
+      "userId": "4",
+      "recieverId": "1",
+      "eventId": "2"
+    }
+  ],
+  "likeNotifications": [
+    {
+      "id": "1",
       "userId": "1",
-      "receiverId": "2"
+      "publicPostId": "3",
+      "recieverId": "3"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "publicPostId": "10",
+      "recieverId": "10"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "publicPostId": "4",
+      "recieverId": "4"
+    },
+    {
+      "id": "4",
+      "userId": "6",
+      "publicPostId": "1",
+      "recieverId": "1"
+    },
+    {
+      "id": "5",
+      "userId": "8",
+      "publicPostId": "7",
+      "recieverId": "7"
+    }
+  ],
+  "friendRequestsNotifications": [
+    {
+      "id": "1",
+      "userId": "2",
+      "receiverId": "1"
+    },
+    {
+      "id": "2",
+      "userId": "4",
+      "receiverId": "1"
     }
   ],
   "posts": [
